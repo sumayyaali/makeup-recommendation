@@ -1,1 +1,8 @@
 # makeup-recommendation
+Introduction:
+In this project, we consider an automatic makeup recommendation system and propose examples-rules guided deep neural network approach. The framework consists of three stages. First, makeup-related facial traits are classiﬁed into structured coding. Second, these facial traits are fed into examples-rules guided deep neural recommendation model. Finally, to visualize the recommended makeup style, an automatic makeup system is developed as well. To this end, a facial makeup database is collected and labeled manually, and the knowledge of makeup artist is modeled by knowledge base system. The experiments validate the automatic facial traits classiﬁcation, the recommendation effectiveness in statistical and perceptual ways. It is also worthy to note that the proposed framework is a pioneering automatic makeup recommendation systems to our best knowledge.
+
+This project aims to detect faces of particular gender/age/race and suggest for the suitable make up for their faces by using Artificial Intelligence techniques through machine learning to predict the suitable make up for the particular customer. In this project we have initially restricted the criteria for the age between 18 and 50. 
+It will help all customers to choose the right make-up type by age, gender and race easier, faster and more accurate.
+This system works to identify the shape according to the available specifications fed by the system and accurately estimates the age, gender and race of the person by the labels under each image and accordingly suggests the type of make-up appropriate for that person.
+To achieve the goals of the recommendation system to recognize the face and based on that recommend certain type of makeup.
